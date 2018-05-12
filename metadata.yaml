@@ -1,0 +1,29 @@
+_repo: Encomium-artis-medicae_16561
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Erasmus, Desiderius
+    alias: Erasmus, of Rotterdam
+    birthdate: 1469
+    deathdate: 1536
+    gutenberg_agent_id: '3026'
+    url: http://www.gutenberg.org/2009/agents/3026
+    wikipedia: http://en.wikipedia.org/wiki/Erasmus
+description: ''
+gutenberg_issued: '2005-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16561'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Medicine -- Vocational guidance'
+- !lcsh 'Philosophy, Medical'
+title: Encomium artis medicae
+url: http://www.gutenberg.org/ebooks/16561
